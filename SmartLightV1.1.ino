@@ -18,7 +18,7 @@
 
 // You need to download the Blynk app on iOS or Android. You will need to make an app (scan the QR code on your project kit for access to the videos to help you
 // Go to the Project Settings (nut icon)in your Blynk app, and copy the auth token into the line of code below. Don't delete the "" just change the blue text!
-char auth[] = "d9af620659964460b8ecb024bc77e448";
+char auth[] = "AUTH TOKEN GOES IN HERE";
 char blynk_token[] = "token_number";
 
 #define BUTTON_PIN   D2                                           // Digital IO pin connected to the push button.  This will be
